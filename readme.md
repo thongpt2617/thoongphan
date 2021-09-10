@@ -1,7 +1,7 @@
 <h3>
   Hi there, I'm Thong 👋
 </h3>
-<h2>
+<h2 align='center'>
   A Fullstack Developer and Cool-stuffs Addict!! 
 </h2>
 
