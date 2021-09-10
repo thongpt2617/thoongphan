@@ -5,7 +5,6 @@
   A Fullstack Developer and Cool-stuffs Addict!! 
 </h2>
 <br/>
-
 <h3 align='center'>
   Contact with me
 </h3>
@@ -14,8 +13,6 @@
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
 </p>
-<br/>
-
 <h3 align='center'>
   Languages and Tools
 </h3>
