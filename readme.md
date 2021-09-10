@@ -4,20 +4,21 @@
 <h2 align='center'>
   A Fullstack Developer and Cool-stuffs Addict!! 
 </h2>
+<br/>
 
 <h3 align='center'>
-  Languages and Tools
+  Contact with me
 </h3>
 <p align='center'>
   <a href="https://www.linkedin.com/in/thong-phan-1a00581b4/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
 </p>
+<br/>
 
 <h3 align='center'>
   Languages and Tools
 </h3>
-
 <p align="center" >
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
