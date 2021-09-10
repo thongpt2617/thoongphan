@@ -4,7 +4,6 @@
 <h2 align='center'>
   A Fullstack Developer and Cool-stuffs Addict!! 
 </h2>
-<br/>
 <h3 align='center'>
   Contact with me
 </h3>
