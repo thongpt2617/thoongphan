@@ -1,16 +1,22 @@
-### Hi there, I'm Thong 👋
-## I'm a Fullstack Developer and also Cool-stuffs Addict!! 
+<h3>
+  Hi there, I'm Thong 👋
+</h3>
+<h2>
+  A Fullstack Developer and Cool-stuffs Addict!! 
+</h2>
 
-### Connect with me:
-<p align='left'>
+<h3 align='center'>
+  Languages and Tools
+</h3>
+<p align='center'>
   <a href="https://www.linkedin.com/in/thong-phan-1a00581b4/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
 </p>
 
-<h2 align='center'>
+<h3 align='center'>
   Languages and Tools
-</h2>
+</h3>
 
 <p align="center" >
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
