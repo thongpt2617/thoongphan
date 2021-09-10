@@ -10,8 +10,8 @@
 
 ### Languages and Tools:
 
-<table>
-  <td>
+<div>
+  <div>
     <p align="center" >
       <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
       <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
@@ -44,6 +44,6 @@
       <br/>
       <img alt="RabbitMQ" src="https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white" />
     </p>
-  </td>  
-</table>
+  </div>  
+</div>
 
