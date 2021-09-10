@@ -4,14 +4,7 @@
 <h2 align='center'>
   A Fullstack Developer and Cool-stuffs Addict!! 
 </h2>
-<h3 align='center'>
-  Contact with me
-</h3>
-<p align='center'>
-  <a href="https://www.linkedin.com/in/thong-phan-1a00581b4/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;
-</p>
+
 <h3 align='center'>
   Languages and Tools
 </h3>
@@ -48,4 +41,12 @@
   <img alt="RabbitMQ" src="https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white" />
 </p>
 
+<h3 align='left'>
+  Contact with me
+</h3>
+<p align='left'>
+  <a href="https://www.linkedin.com/in/thong-phan-1a00581b4/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+</p>
 
