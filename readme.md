@@ -2,8 +2,10 @@
 ## I'm a Fullstack Developer and also Cool-stuffs Addict!! 
 
 ### Connect with me:
-<p>
-  [<img align="left" alt="Thong Phan | LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/thong-phan-1a00581b4/)
+<p align='center'>
+  <a href="https://www.linkedin.com/in/thong-phan-1a00581b4/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
 </p>
 
 ### Languages and Tools:
